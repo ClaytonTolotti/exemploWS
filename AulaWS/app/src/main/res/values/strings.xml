@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AulaWS</string>
+    <string name="name">Nome</string>
+    <string name="e_mail">E-mail</string>
+    <string name="phone">Telefone</string>
+    <string name="password">Senha</string>
+    <string name="list_users">Listar Usuários</string>
+    <string name="create_user">Cadastrar Usuários</string>
+    <string name="wait">Aguarde...</string>
+</resources>
